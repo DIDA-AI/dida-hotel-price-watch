@@ -1,4 +1,4 @@
-# RollingGo UV Reference
+# Dida UV Reference
 
 > Use this file for uv / uvx / Python environments.
 > Interaction style and branching logic live in `../SKILL.md`.
