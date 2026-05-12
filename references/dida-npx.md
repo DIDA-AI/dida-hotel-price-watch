@@ -1,4 +1,4 @@
-# RollingGo NPX Reference
+# Dida NPX Reference
 
 > Use this file for npm / npx / Node environments.
 > Interaction style and branching logic live in `../SKILL.md`.
